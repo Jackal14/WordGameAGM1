@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WordGameAGM</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Mad Lib It Up!</string>
+    <string name="title">Mad Libs</string>
+    <string name="adjective">Adjective</string>
+    <string name="noun">Noun</string>
+    <string name="exclamations">Exclamation</string>
+    <string name="colors">Color</string>
+</resources>
