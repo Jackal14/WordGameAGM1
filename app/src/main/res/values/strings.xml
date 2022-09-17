@@ -7,4 +7,11 @@
     <string name="noun">Noun</string>
     <string name="exclamations">Exclamation</string>
     <string name="colors">Color</string>
+    <string name="Madlibs1">There once was a </string>
+    <string name="Madlibs2"> and their </string>
+    <string name="Madlibs3"> glowed a bright </string>
+    <string name="Madlibs4"> and with a mighty </string>
+    <string name="Madlibs5"> they unleashed a devastating attack. A bright </string>
+    <string name="Madlibs6"> filled the sky and all the bystanders couldn\'t help but </string>
+
 </resources>
