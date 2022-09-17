@@ -26,7 +26,7 @@ public class MadLibsActivity extends AppCompatActivity {
         gatherData(intent);
     }
 
-    
+
     private void gatherData(Intent intent)
     {
         //Arrays of text views and strings to get written text
