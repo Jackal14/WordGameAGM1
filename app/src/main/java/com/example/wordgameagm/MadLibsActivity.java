@@ -60,7 +60,7 @@ public class MadLibsActivity extends AppCompatActivity {
             SpannableString content = new SpannableString(originContent);
 
             //Set Colors and underline
-            ForegroundColorSpan colorSpan = new ForegroundColorSpan(Color.parseColor("#23FF00"));
+            ForegroundColorSpan colorSpan = new ForegroundColorSpan(Color.parseColor("#C70000"));
             content.setSpan(new UnderlineSpan(), 0, content.length(), 0);
             content.setSpan(colorSpan, 0, content.length(), Spanned.SPAN_EXCLUSIVE_EXCLUSIVE);
 
