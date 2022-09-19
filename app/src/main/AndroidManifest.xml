@@ -16,6 +16,7 @@
         <activity
             android:name=".MadLibsActivity"
             android:exported="false"
+            android:parentActivityName=".MadLibsActivity"
             android:screenOrientation="fullUser"/>
         <activity
             android:name=".MainActivity"
