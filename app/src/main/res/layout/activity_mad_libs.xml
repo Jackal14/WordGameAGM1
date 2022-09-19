@@ -42,7 +42,7 @@
 
                     <TextView
                         android:id="@+id/exc1"
-                        android:layout_width="wrap_content"
+                        android:layout_width="131dp"
                         android:layout_height="wrap_content"
                         android:layout_marginStart="8dp"
                         android:layout_marginTop="8dp"
@@ -71,7 +71,7 @@
 
                     <TextView
                         android:id="@+id/no1"
-                        android:layout_width="wrap_content"
+                        android:layout_width="58dp"
                         android:layout_height="wrap_content"
                         android:layout_marginStart="8dp"
                         android:layout_marginTop="8dp"
@@ -83,7 +83,7 @@
                         app:layout_constraintEnd_toEndOf="parent"
                         app:layout_constraintHorizontal_bias="0.0"
                         app:layout_constraintStart_toEndOf="@+id/adj2"
-                        app:layout_constraintTop_toBottomOf="@+id/adj1" />
+                        app:layout_constraintTop_toBottomOf="@+id/no2" />
 
                     <TextView
                         android:id="@+id/adj2"
@@ -96,7 +96,7 @@
                         android:textColor="@color/dark_red"
                         android:textSize="24sp"
                         app:layout_constraintStart_toEndOf="@+id/textView5"
-                        app:layout_constraintTop_toBottomOf="@+id/textView4" />
+                        app:layout_constraintTop_toBottomOf="@+id/no2" />
 
                     <TextView
                         android:id="@+id/adj1"
@@ -113,7 +113,7 @@
 
                     <TextView
                         android:id="@+id/no2"
-                        android:layout_width="wrap_content"
+                        android:layout_width="0dp"
                         android:layout_height="wrap_content"
                         android:layout_marginStart="8dp"
                         android:layout_marginTop="16dp"
@@ -155,7 +155,7 @@
                         app:layout_constraintEnd_toEndOf="parent"
                         app:layout_constraintHorizontal_bias="0.0"
                         app:layout_constraintStart_toStartOf="parent"
-                        app:layout_constraintTop_toBottomOf="@+id/adj2" />
+                        app:layout_constraintTop_toBottomOf="@+id/no1" />
 
                     <TextView
                         android:id="@+id/textView7"
